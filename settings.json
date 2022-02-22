@@ -1,0 +1,21 @@
+{
+    "name": "NFTHustleGang",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token/name": "WEB32LEarn",
+        "/category/asset_value_tracking/core-token/decimals": "6",
+        "/category/asset_value_tracking/core-token/supply": "49999",
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/asset_value_tracking/core-token/symbol": "32L"
+    }
+}
